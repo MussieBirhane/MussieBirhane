@@ -1,4 +1,4 @@
-### Ciao 👋, I am Mussie
+### Ciao 👋, I am Mussie!
 
 I am a *Structural Engineer* and *Data Scientist* with a special interest in
 driving sustainability, promoting circular economy and resource efficiency in
@@ -12,10 +12,10 @@ environment.
 
 I am now looking out for new challenges where I can develop scalable digital
 products and data-driven solutions that support digital innovation and informed
-decision-making in the AEC industry. I am also open to exploring and learning
-from other disciplines.
+decision-making in the AEC industry.
 
-Bonus point if I can collaborate with like-minded, cross-disciplinary engineers!
+I am also open to exploring and learning from other disciplines, and bonus
+point, if I can collaborate with like-minded, cross-disciplinary engineers!
 
 Please feel free to [connect](https://www.linkedin.com/in/mussie-birhane-92b0ba156/) and
 explore the possibilities of working together to drive meaningful change.
