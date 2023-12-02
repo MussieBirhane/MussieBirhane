@@ -10,7 +10,7 @@ Computer Vision and Natural Language Processing based digital products that
 play a pivotal role in driving sustainability and circular economy in the built
 environment.
 
-I am now looking out for new challenges where I can develop scalable digital
+I am now looking for new challenges where I can develop scalable digital
 products and data-driven solutions that support digital innovation and informed
 decision-making in the AEC industry.
 
@@ -28,7 +28,7 @@ explore the possibilities of working together to drive meaningful change.
 ## Currently Learning
 - DevOps technologies: Containerization with Docker, Kubernetes, Continuous Integration/Continuous Deployment (CI/CD).
 - End-to-end Machine Learning pipeline production using AWS SageMaker studio.
-- Fine-tuning & deploying LLMs in AWS SageMaker Studio.
+- Fine-tuning & deploying Large Language Models in AWS SageMaker Studio.
 
 ## Publications
 - Kanyilmaz A., Birhane M., Fishwick R., del Castillo C. (2023), Reuse of steel in the construction industry:
