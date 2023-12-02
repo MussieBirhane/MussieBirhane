@@ -28,7 +28,7 @@ explore the possibilities of working together to drive meaningful change.
 ## Currently Learning
 - DevOps technologies: Containerization with Docker, Kubernetes, Continuous Integration/Continuous Deployment (CI/CD).
 - End-to-end Machine Learning pipeline production using AWS SageMaker studio.
-- Fine-tuning & deploying Large Language Models in AWS SageMaker Studio.
+- Fine-tuning & deploying Large Language Models (LLMs) in AWS SageMaker Studio.
 
 ## Publications
 - Kanyilmaz A., Birhane M., Fishwick R., del Castillo C. (2023), Reuse of steel in the construction industry:
