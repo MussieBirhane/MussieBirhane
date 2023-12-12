@@ -21,7 +21,7 @@ Please feel free to [connect](https://www.linkedin.com/in/mussie-birhane-92b0ba1
 explore the possibilities of working together to drive meaningful change.
 
 ## My most relevant technical skills
-- Building an end-to-end machine learning systems on production using AWS SageMaker studio.
+- Building an end-to-end machine learning systems on production using [AWS SageMaker studio](https://aws.amazon.com/sagemaker/).
 - Writing scalable and production-ready code with Python, JavaScript, SQL, MATLAB, and GitHub.
 - Researching, documenting, presenting and publishing state-of-the-art developments.
 
