@@ -30,7 +30,7 @@ explore the possibilities of working together to drive meaningful change.
 - End-to-end Machine Learning pipeline production using AWS SageMaker studio.
 - Fine-tuning & deploying Large Language Models (LLMs) in AWS SageMaker Studio.
 
-## Publications
+## Publications & conference presentations
 - Kanyilmaz A., Birhane M., Fishwick R., del Castillo C. (2023), Reuse of steel in the construction industry:
 challenges and opportunities, International Journal of Steel Structures.
 [(Review paper)](https://link.springer.com/article/10.1007/s13296-023-00778-4)
