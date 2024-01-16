@@ -1,4 +1,4 @@
-### Ciao 👋, I am Mussie!
+### Ciao 👋 I am Mussie!
 
 I am a *Structural Engineer* and *Data Scientist* with a special interest in
 driving sustainability, promoting circular economy and resource efficiency in
@@ -20,17 +20,17 @@ point, if I can collaborate with like-minded, cross-disciplinary engineers!
 Please feel free to [connect](https://www.linkedin.com/in/mussie-birhane-92b0ba156/) and
 explore the possibilities of working together to drive meaningful change.
 
-## Most Relevant Technical Skills
+### Most Relevant Technical Skills
 - Building an end-to-end machine learning systems on production using [AWS SageMaker studio](https://aws.amazon.com/sagemaker/).
 - Writing scalable and production-ready code with Python, JavaScript, SQL, MATLAB, and GitHub.
 - Researching, documenting, presenting and publishing state-of-the-art developments.
 
-## Currently Learning
+### Currently Learning
 - DevOps technologies: Containerization with Docker, Kubernetes, Continuous Integration/Continuous Deployment (CI/CD).
 - End-to-end Machine Learning pipeline production using AWS SageMaker studio.
 - Fine-tuning & deploying Large Language Models (LLMs) in AWS SageMaker Studio.
 
-## Publication & Conference Presentations
+### Publication & Conference Presentations
 - Kanyilmaz A., Birhane M., Fishwick R., del Castillo C. (2023), Reuse of steel in the construction industry:
 challenges and opportunities, International Journal of Steel Structures.
 [(Review paper)](https://link.springer.com/article/10.1007/s13296-023-00778-4)
