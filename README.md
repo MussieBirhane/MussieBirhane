@@ -22,7 +22,7 @@ explore the possibilities of working together to drive meaningful change.
 
 ### Most Relevant Technical Skills
 - Building an end-to-end machine learning systems on production using [AWS SageMaker studio](https://aws.amazon.com/sagemaker/).
-- Writing scalable and production-ready code with Python, JavaScript, SQL, MATLAB, and GitHub.
+- Writing scalable and production-ready code with Python, JavaScript, C++, SQL, MATLAB, and GitHub.
 - Researching, documenting, presenting and publishing state-of-the-art developments.
 
 ### Currently Learning
