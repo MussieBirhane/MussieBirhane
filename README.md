@@ -1,4 +1,4 @@
-### Ciao 👋 I am Mussie!
+### Hi there 👋 I am Mussie!
 
 I am a *Structural Engineer* and *Data Scientist* with a special interest in
 driving sustainability, promoting circular economy and resource efficiency in
@@ -21,9 +21,10 @@ Please feel free to [connect](https://www.linkedin.com/in/mussie-birhane-92b0ba1
 explore the possibilities of working together to drive meaningful change.
 
 ### Most Relevant Technical Skills
+- Developing production ready Retrieval Augmented Generation (RAG) applications.
 - Building an end-to-end machine learning systems on production using [AWS SageMaker studio](https://aws.amazon.com/sagemaker/).
-- Writing scalable and production-ready code with Python, JavaScript, C++, SQL, MATLAB, and GitHub.
-- Researching, documenting, presenting and publishing state-of-the-art developments.
+- Writing scalable and production-ready code with Python, JavaScript, C++, SQL, MongoDB, MATLAB, and GitHub.
+- Researching, documenting, publishing and presenting state-of-the-art developments.
 
 ### Currently Learning
 - DevOps technologies: Containerization with Docker, Kubernetes, Continuous Integration/Continuous Deployment (CI/CD).
