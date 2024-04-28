@@ -22,14 +22,13 @@ explore the possibilities of working together to drive meaningful change.
 
 ### Most Relevant Technical Skills
 - Developing production ready Retrieval Augmented Generation (RAG) applications.
-- Building an end-to-end machine learning systems on production using [AWS SageMaker studio](https://aws.amazon.com/sagemaker/).
+- Building an end-to-end machine learning systems on production using [AWS SageMaker](https://aws.amazon.com/sagemaker/).
 - Writing scalable and production-ready code with Python, JavaScript, C++, SQL, MongoDB, MATLAB, and GitHub.
 - Researching, documenting, publishing and presenting state-of-the-art developments.
 
 ### Currently Learning
 - DevOps technologies: Containerization with Docker, Kubernetes, Continuous Integration/Continuous Deployment (CI/CD).
-- End-to-end Machine Learning pipeline production using AWS SageMaker studio.
-- Fine-tuning & deploying Large Language Models (LLMs) in AWS SageMaker Studio.
+- Fine-tuning & deploying Large Language Models (LLMs) in AWS SageMaker.
 
 ### Publication & Conference Presentations
 - Kanyilmaz A., Birhane M., Fishwick R., del Castillo C. (2023), Reuse of steel in the construction industry:
