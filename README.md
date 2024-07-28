@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Mussie!
 
-I am a *Structural Engineer* and *Data Scientist* with a special interest in
+I am a *Structural Engineer* and *AI Developer* with a special interest in
 driving sustainability, promoting circular economy and resource efficiency in
 the built environment using advanced digital technologies.
 
